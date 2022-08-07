@@ -1,7 +1,7 @@
 # Test_Automation_Selenium_JUnit
 ## Following tasks are automated using Selenium JUnit:
  *Writing text
- *Handling alerts
+ <br />*Handling alerts
  *Selecting Date
  *Keyboard Events
  *Selection of menu
