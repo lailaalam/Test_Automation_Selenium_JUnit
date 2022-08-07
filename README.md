@@ -1,21 +1,22 @@
 # Test_Automation_Selenium_JUnit
 ## Following tasks are automated using Selenium JUnit:
- **Writing text
- **Handling alerts
- **Selecting Date
- **Keyboard Events
- **Selection of menu
- **Taking Screenshot 
- **Selection of menu
- **Mouse hovering
- **uploading of a file
- **download file
- **Handling of tabs
- **Handling of windows
- **Webtables handling
- **Scraping Data
- **Handling Iframe
- **Filling up a form automatedly and saving the data in a JSON file
+ -Writing text
+ -Handling alerts
+ -Selecting Date
+ -Keyboard Events
+ -Selection of menu
+ -Taking Screenshot 
+ -Selection of menu
+ -Mouse hovering
+ -uploading of a file
+ -download file
+ -Handling of tabs
+ -Handling of windows
+ -Webtables handling
+ -Scraping Data
+ -Handling Iframe
+ -Filling up a form automatedly and saving the data in a JSON file
+ 
  
  ##The picture of the automated form is attached below:
  
