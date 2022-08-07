@@ -6,7 +6,6 @@
  <br />*Keyboard Events
  <br />*Selection of menu
  <br />*Taking Screenshot 
- <br />*Selection of menu
  <br />*Mouse hovering
  <br />*uploading of a file
  <br />*download file
